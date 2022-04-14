@@ -1,0 +1,10 @@
+﻿  3x3Puzzle.cpp
+C:\Users\lee\Documents\까치\실습04장_4번\3x3Puzzle.cpp(27,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lee\Documents\까치\실습04장_4번\3x3Puzzle.cpp(87,33): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\lee\Documents\까치\실습04장_4번\3x3Puzzle.cpp(115,2): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\lee\Documents\까치\실습04장_4번\3x3Puzzle.cpp(121,2): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\lee\Documents\까치\실습04장_4번\3x3Puzzle.cpp(133,2): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\lee\Documents\까치\실습04장_4번\3x3Puzzle.cpp(139,2): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  실습04장_4번.cpp
+  코드를 생성하고 있습니다...
+  실습04장_4번.vcxproj -> C:\Users\lee\Documents\까치\실습04장_4번\x64\Debug\실습04장_4번.exe
