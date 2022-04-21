@@ -1,0 +1,3 @@
+﻿  HangmanGame.cpp
+C:\Users\lee\Documents\Week6_Homework1\Hangman.h(42,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  HangmanGame.vcxproj -> C:\Users\lee\Documents\Week6_Homework1\Debug\HangmanGame.exe
