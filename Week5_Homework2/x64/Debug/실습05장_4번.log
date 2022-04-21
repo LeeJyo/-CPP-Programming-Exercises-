@@ -1,0 +1,7 @@
+﻿  MineSweeper.cpp
+C:\Users\lee\Documents\Week5_Homework2\MineSweeper.cpp(105,12): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  실습05장_4번.cpp
+C:\Users\lee\Documents\Week5_Homework2\실습05장_4번.cpp(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lee\Documents\Week5_Homework2\실습05장_4번.cpp(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  실습05장_4번.vcxproj -> C:\Users\lee\Documents\Week5_Homework2\x64\Debug\실습05장_4번.exe
