@@ -1,0 +1,7 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\lee\Desktop\Week10_Homework3\Human.h(11,27): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\lee\Desktop\Week10_Homework3\Human.h(13,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\lee\Desktop\Week10_Homework3\MonsterWorld.h(61,8): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\lee\Desktop\Week10_Homework3\MonsterWorld.h(62,24): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+C:\Users\lee\Desktop\Week10_Homework3\MonsterWorld.h(64,11): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  Week10_Homework3.vcxproj -> C:\Users\lee\Desktop\Week10_Homework3\Debug\Week10_Homework3.exe
